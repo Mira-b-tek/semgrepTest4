@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+      - newBranch
 name: Semgrep
 
 jobs:
